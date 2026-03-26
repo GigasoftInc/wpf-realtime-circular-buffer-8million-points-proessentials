@@ -10,7 +10,7 @@ Extends the base example 146 pattern with a **custom right-click Zoom Mode
 menu** that lets you switch live between two zooming behaviors — demonstrating
 the single-line timer tick difference between examples 145 and 146.
 
-![ProEssentials Real-Time Circular Buffer](https://gigasoft.com/wpf-chart/screenshots/screen146.png)
+![ProEssentials Real-Time Circular Buffer](docs/screen146.png)
 
 ➡️ [gigasoft.com/examples/146](https://gigasoft.com/examples/146)
 
